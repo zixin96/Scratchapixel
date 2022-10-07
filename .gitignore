@@ -1,0 +1,8 @@
+build/
+vendor/.bootstrap.json
+vendor/archives/
+vendor/src/
+imgui.ini
+.vscode/
+data/meshes/*
+data/out_textures/*
